@@ -19,3 +19,5 @@ public class DefaultValues {
         System.out.println("boolean: " + bool);
     }
 }
+
+// static is used so the variables can be accessed directly inside main() without making an object.
